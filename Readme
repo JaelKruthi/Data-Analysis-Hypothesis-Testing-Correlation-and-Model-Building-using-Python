@@ -1,5 +1,0 @@
-# Business Case
-The project analyzes historical flight data from New York to three major nearby airports: Dulles International Airport (IAD), Baltimore/Washington International Thurgood Marshall Airport (BWI), and Ronald Reagan Washington National Airport (DCA). 
-The goal is to look at patterns with respect to flight delays, cancellations, and the factors influencing them. 
-The analysis covers flight performance, weather conditions, federal holidays, and other factors such as aircraft types, airport performance, and airline reliability. 
-By using this analysis, local authorities, airlines, and insurers can make more informed decisions to improve safety, reduce operational inefficiencies, and enhance customer satisfaction.
